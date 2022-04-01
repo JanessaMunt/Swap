@@ -1,0 +1,24 @@
+{
+  "name": "aprilfools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanessaMunt/AprilFools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanessaMunt/AprilFools/issues"
+  },
+  "homepage": "https://github.com/JanessaMunt/AprilFools#readme",
+  "devDependencies": {
+    "@gathertown/gather-game-client": "^36.0.3",
+    "isomorphic-ws": "^4.0.1",
+    "ws": "^8.5.0"
+  }
+}
